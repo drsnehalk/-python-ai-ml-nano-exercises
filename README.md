@@ -1,6 +1,6 @@
 # Python AI/ML Nano Exercises
 
-A curated set of completed Python exercises from the 30-day Python for AI/ML plan.
+A curated set of completed Python exercises from my 30-day Python for AI/ML plan.
 
 The exercises are arranged from simple to complex:
 
@@ -12,7 +12,7 @@ The exercises are arranged from simple to complex:
 6. `06_matrices_numpy` - pure-Python matrix operations
 7. `07_nlp_preprocessing` - text cleaning, tokenization, vocabulary, token IDs, bag-of-words
 
-Only finished exercises are included. Scratch files, broken attempts, swap files, secrets, and unfinished bag-of-words pipeline files were intentionally left out.
+
 
 ## Run an exercise
 
